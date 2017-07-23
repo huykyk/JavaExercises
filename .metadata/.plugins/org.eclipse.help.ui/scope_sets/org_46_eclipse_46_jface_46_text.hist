@@ -1,0 +1,4 @@
+#Tue Apr 18 14:46:55 CST 2017
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=org.eclipse.jface.text
